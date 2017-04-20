@@ -1,9 +1,11 @@
 package com.example.daniel.robotspencilscodetest.model
 
 /**
- * Created by Daniel on 4/19/17.
+ * Created by Daniel on 4/20/17.
  */
+
 class Comments {
-    private val name : String? = null
-    private val comment : String ?= null
+
+    var name: String? = null
+    var comment: String? = null
 }
