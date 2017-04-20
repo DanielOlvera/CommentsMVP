@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631344212427",
+    "firebase_url": "https://comments-b8d2f.firebaseio.com",
+    "project_id": "comments-b8d2f",
+    "storage_bucket": "comments-b8d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631344212427:android:81f797c097ac9b9b",
+        "android_client_info": {
+          "package_name": "com.example.daniel.robotspencilscodetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631344212427-00hr2sema2hhclpidon2vs1okdhvm8u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJk4OrqxO41zsds5pLrqloB2b-5vTD-Yw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
